@@ -1,0 +1,36 @@
+body {
+    background-image: none;
+    background-color: rgb(44, 44, 44);
+}
+
+a {
+    text-decoration: none;
+    color: #f2f2f2;
+}
+
+a:hover {
+    color: cyan;
+}
+
+.nav {
+    margin: 15px;
+    font-size: 20px;
+}
+
+.sign_out {
+    margin-top: 50px;
+    text-align: center;
+    color: aqua;
+}
+
+.sign_out_button {
+    margin: 5px;
+    background-color: pink;
+    border: 2px solid grey;
+    border-radius: 2px;
+    width: 150px;
+}
+
+.sign_out_button:hover {
+    background-color: rgb(255, 87, 115);
+}
